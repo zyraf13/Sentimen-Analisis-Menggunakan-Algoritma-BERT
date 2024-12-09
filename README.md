@@ -1,2 +1,2 @@
-# Sentimen Analisis Menggunakan Algoritma BERT
+# Sentiment Analysis Using the BERT Algorithm
 ini menggunakan dataset scraping aplikasi Traveloka Di Playstore
